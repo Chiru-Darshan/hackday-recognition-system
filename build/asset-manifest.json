@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38f73c37.css",
+    "main.js": "/static/js/main.95c85ebe.js",
+    "static/js/787.4aa0487c.chunk.js": "/static/js/787.4aa0487c.chunk.js",
+    "static/media/Sandeep.png": "/static/media/Sandeep.89624355ef88251e24a5.png",
+    "static/media/Ramana.png": "/static/media/Ramana.18907930fb179b18836d.png",
+    "static/media/Avinash.png": "/static/media/Avinash.054c698b90457546fe00.png",
+    "static/media/Mosaad.jpg": "/static/media/Mosaad.e041227f61eaf01b1f71.jpg",
+    "static/media/template 2.png": "/static/media/template 2.47efb3c56ea170c285f4.png",
+    "static/media/template 6.png": "/static/media/template 6.816039eb1d3df4d03742.png",
+    "static/media/template 1.png": "/static/media/template 1.29931741a1819b47d5e9.png",
+    "static/media/profile.jpeg": "/static/media/profile.d5452abd44cbb7436242.jpeg",
+    "static/media/template 4.png": "/static/media/template 4.e35249900674ced65d8e.png",
+    "static/media/template 3.png": "/static/media/template 3.8a7010feece6aeb3a1f1.png",
+    "static/media/template 7.png": "/static/media/template 7.7f7bbf35a6422089512b.png",
+    "static/media/template 5.png": "/static/media/template 5.b9848224c7d1e4bd6b51.png",
+    "static/media/quotient.png": "/static/media/quotient.e097b08a6db7be6f9027.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.38f73c37.css.map": "/static/css/main.38f73c37.css.map",
+    "main.95c85ebe.js.map": "/static/js/main.95c85ebe.js.map",
+    "787.4aa0487c.chunk.js.map": "/static/js/787.4aa0487c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f73c37.css",
+    "static/js/main.95c85ebe.js"
+  ]
+}
